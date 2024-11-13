@@ -1,0 +1,25 @@
+#!meta
+
+{"kernelInfo":{"defaultKernelName":"csharp","items":[{"aliases":[],"name":"csharp"},{"aliases":[],"languageName":"javascript","name":"javascript"}]}}
+
+#!markdown
+
+Working? 
+
+#!javascript
+
+// JavaScript code cell
+function greet(name) {
+    return `Hello, ${name}!`;
+}
+
+greet("Bob");
+
+#!value
+
+#!python
+# Python code cell
+def greet(name):
+    return f"Hello, {name}!"
+
+greet("Alice")
